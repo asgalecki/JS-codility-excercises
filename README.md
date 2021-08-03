@@ -16,3 +16,4 @@ This repository contains my solutions of tasks taken from [Codility](https://app
    - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).
 5. [Prefix Sums](https://app.codility.com/programmers/lessons/5-prefix_sums/):
    - [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/),
+   - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/),
