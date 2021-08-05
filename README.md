@@ -17,4 +17,5 @@ This repository contains my solutions of tasks taken from [Codility](https://app
 5. [Prefix Sums](https://app.codility.com/programmers/lessons/5-prefix_sums/):
    - [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/),
    - [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/),
-   - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/),
+   - [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/),
+   - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/).
