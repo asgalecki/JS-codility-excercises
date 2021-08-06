@@ -19,3 +19,5 @@ This repository contains my solutions of tasks taken from [Codility](https://app
    - [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/),
    - [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/),
    - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/).
+6. [Sorting](https://app.codility.com/programmers/lessons/6-sorting/):
+   - [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/),
