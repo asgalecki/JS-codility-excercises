@@ -22,3 +22,4 @@ This repository contains my solutions of tasks taken from [Codility](https://app
 6. [Sorting](https://app.codility.com/programmers/lessons/6-sorting/):
    - [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/),
    - [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/),
+   - [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/),
